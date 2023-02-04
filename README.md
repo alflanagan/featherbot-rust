@@ -1,4 +1,4 @@
-.# Featherbot Rust Project
+# Featherbot Rust Project
 
 ## Overview
 
